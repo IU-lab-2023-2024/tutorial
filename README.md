@@ -8,7 +8,7 @@
 4. 11 dicembre → 13:00 – 15:00 → Bootstrap Grid System.
 5. 12 dicembre → 17:00 – 19:00 → Bootstrap components. 
 
-Questa repository contiene una serie di video tutorial sull'utilizzo di <a href="https://getbootstrap.com/docs/4.6/getting-started/introduction/" target="_blank" alt="Bootstrap v4.6.x">Bootstrap v4.6.x</a> e di <a href="https://github.com/" target="_blank" alt="GitHub">GitHub</a>.
+Questa repository contiene una serie di video tutorial sull'utilizzo di <a href="https://getbootstrap.com/docs/4.6/getting-started/introduction/" target="_blank" alt="Bootstrap v4.6.x">Bootstrap v4.6.x</a> e di <a href="https://github.com/" target="_blank" alt="GitHub">GitHub</a> accessibili al link:
 
 GLHF!
 
